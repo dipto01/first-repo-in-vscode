@@ -7,7 +7,9 @@ git add README.md //use . for all
 git commit -m "first commit"
 
 git branch -M main
+
 git remote add origin https://github.com/dipto01/first-repo-in-vscode.git
+
 git push -u origin main
 
 Track this file for me!
